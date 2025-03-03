@@ -1,5 +1,8 @@
 Django
+daphne
 pillow
 django-cleanup
 django-allauth
 django-htmx
+channels
+channels_redis
